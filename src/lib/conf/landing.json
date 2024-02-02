@@ -86,7 +86,7 @@
                 "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/e4523f9e-db1b-458b-829b-49695902ae7a"
               }
             ],
-            "gridPhotoWidth": ""
+            "gridPhotoWidth": 500
           }
         }
       ]
@@ -103,7 +103,7 @@
             "address": "Baltenweg 4, 17459 Koserow",
             "lat": "54.055807791973415",
             "long": "14.000579107028804",
-            "zoom": 10
+            "zoom": 12
           }
         }
       ]
