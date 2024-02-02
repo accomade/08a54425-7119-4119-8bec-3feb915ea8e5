@@ -1,5 +1,5 @@
 {
-  "headerPhoto": "prev/users/template1/hero.jpg",
+  "headerPhoto": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/2c20b035-2a2b-4282-ba58-9b23a0577c05",
   "sections": [
     {
       "header": "town",
@@ -7,22 +7,24 @@
       "padding": "10vw",
       "blocks": [
         {
+          "id": "creative-stickweed",
           "kind": "text",
           "content": {
-            "ref": "landing_town_html",
-            "headerFontSize": "2.5rem",
-            "textFontSize": "1.3rem"
+            "ref": "fiscal-tree-sow-thistle",
+            "minHeight": "",
+            "headerFontSize": "1.9rem",
+            "textFontSize": "1.5rem"
           }
         },
         {
+          "id": "pleasant-snowdrop",
           "kind": "photo",
           "content": {
-            "photoPath": "prev/users/template1/church_koserow.jpg",
-            "alt": "town_church",
-            "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Koserowkirche.jpg\">Unukorno</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-            "link": "http://www.koserow.de",
-            "external": true,
-            "height": "40vh"
+            "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/c2930cea-b16e-4806-8c18-6d7d6c900a7d",
+            "alt": "initial-silver-ragwort",
+            "height": "30vh",
+            "link": "",
+            "attribution": ""
           }
         }
       ]
@@ -33,52 +35,12 @@
       "padding": "0",
       "blocks": [
         {
+          "id": "profitable-gordaldo",
           "kind": "weather",
           "content": {
-            "header1": "koserow",
-            "header2": "weather",
+            "header1": "weatherHeader1",
+            "header2": "weatherHeader2",
             "location": "54d0514d00/koserow/"
-          }
-        }
-      ]
-    },
-    {
-      "header": "accomodations",
-      "columnCount": 2,
-      "blocks": [
-        {
-          "kind": "text",
-          "content": {
-            "ref": "landing_apartments_html",
-            "headerFontSize": "1.5rem",
-            "textFontSize": "1rem"
-          }
-        },
-        {
-          "kind": "photo",
-          "content": {
-            "photoPath": "prev/users/template1/building_1.jpg",
-            "alt": "apartment_1_alt",
-            "link": "/accomodations/acco_cornflower",
-            "height": "30vh"
-          }
-        },
-        {
-          "kind": "photo",
-          "content": {
-            "photoPath": "prev/users/template1/building_2.jpg",
-            "alt": "apartment_2_alt",
-            "link": "/accomodations/acco_sunflower",
-            "height": "40vh"
-          }
-        },
-        {
-          "kind": "photo",
-          "content": {
-            "photoPath": "prev/users/template1/building_3.jpg",
-            "alt": "apartment_3_alt",
-            "link": "/accomodations/acco_rosebush",
-            "height": "40vh"
           }
         }
       ]
@@ -89,42 +51,42 @@
       "padding": "0",
       "blocks": [
         {
+          "id": "fierce-striped-maple",
           "kind": "photo-gallery",
           "content": {
             "photos": [
               {
-                "photoPath": "prev/users/template1/beach_1.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/306744c3-4595-4ccd-b369-21b72a3ffb03"
               },
               {
-                "photoPath": "prev/users/template1/beach_2.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/ee0f37f3-f9d4-4794-81c0-be5dbb2d65eb"
               },
               {
-                "photoPath": "prev/users/template1/beach_3.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/06b50bf6-5dca-4505-8634-2f6abab59da2"
               },
               {
-                "photoPath": "prev/users/template1/beach_4.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/5a020f45-4ab2-4a2b-824e-e73db1ed767a"
               },
               {
-                "photoPath": "prev/users/template1/beach_5.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/d45c3ccd-2c67-4e73-ae53-bb2701669535"
               },
               {
-                "photoPath": "prev/users/template1/beach_6.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/43c66226-f7e2-4aa8-95ea-e2b28244d315"
               },
               {
-                "photoPath": "prev/users/template1/beach_6.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/a1c43fdc-7a27-4d4c-8a5a-42129cd52fb1"
               },
               {
-                "photoPath": "prev/users/template1/beach_6.jpg",
-                "alt": "beach_alt"
-              }              
-            ]
+                "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/baa7a8cb-8db7-44e4-b2be-91172c305147"
+              },
+              {
+                "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/c6d01c4e-bf33-4384-ae5f-90b27b405037"
+              },
+              {
+                "photoPath": "prod/users/08a54425-7119-4119-8bec-3feb915ea8e5/e4523f9e-db1b-458b-829b-49695902ae7a"
+              }
+            ],
+            "gridPhotoWidth": ""
           }
         }
       ]
@@ -135,12 +97,13 @@
       "padding": "10vw",
       "blocks": [
         {
+          "id": "presidential-african-violet",
           "kind": "leaflet-map",
           "content": {
-            "address": "Achterstr. 3, 17459 Koserow",
-            "lat": 54.0483609,
-            "long": 13.9965374,
-            "zoom": 16
+            "address": "Baltenweg 4, 17459 Koserow",
+            "lat": "54.055807791973415",
+            "long": "14.000579107028804",
+            "zoom": 10
           }
         }
       ]
